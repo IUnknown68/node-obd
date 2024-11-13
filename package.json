@@ -1,0 +1,12 @@
+{
+  "name": "node-obd",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./lib/decode.js",
+    "pids": "./lib/pids.js"
+  },
+  "dependencies": {
+  }
+}
